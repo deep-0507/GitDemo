@@ -1,0 +1,97 @@
+MEAN Stack 
+ >>M: MONGOS DB(DATABASE)
+ >>E: EXPRESS JS (BACKEND)
+ >>A: ANGULAR (FRONTEND)        
+ >>N: NODE JS (BACKEND)
+
+
+ THREE PILLERS
+ >>HTML (HYPER TEXT MARKUP LANGUAGE)
+ >>CSS  (CASCADING STYLE SHEET)
+ >>JS  (JAVA SCRIPT)
+
+OTHES STACKS
+ >> MEAN,MERN ,JAVA FUUL Stack 
+
+ WEB DEVLOPMENT
+ >>BUILDING/DEVELOPER TEAM 
+ >>TESTING TEAM(MANUALTESTERS/AUTOMATICALLY TESTERS)
+ >>HOSTING TEAM (DEVOPS TEAM)
+ >>MAINTANANCE TEAM/SUPPORT TEAM 
+
+ SDLC (SOFTWARE DEVELOPMENT LIFE CYCLE):
+>> WATERFALL
+>> AGILE MODEL
+>> SPIRAL MODEL>>
+>> INTERATIVE MODEL
+>> INCREMENTAL MODEL
+>> V SHAPED MODEL
+>> RAD MODEL (RAPID APPLICATION DEVELOPMENT)
+
+ URL (UNIFORM RESOURSE LOCATIOR)
+ HTTPS://WWW.INSTAGRAM.COM/
+ HTTPS://EDUCATION.DEEPACADEMY.EDU/FULLSTACK
+
+
+ https: PROTOCOL
+ DEEPACADEMY DOMAIN
+ EDUCATION SUB DOMAIN 
+ .EDU: TLD(TOPLEVEL DOMAIN)
+ FULLSTACK: PATH/LOCATION
+
+
+ PROTOCOL
+ >> SET OF RULES/INSTRUCTION
+ http :  HYPER TEXT TRANSFER PROTOCOL
+ https : HYPER TEXT TRANSFER SECURE PROTOCOL
+ tcp : TRANSMISSION CONTROL PROTOCOL
+ udp : USER DATAGRAM PROTOCOL
+ smpt: SIMPLE MAIL TRANSFER PROTOCOL
+ fpt : FILE TRANSFER PROTOCOL
+ ip  : INTERNET PROTOCOL
+  
+
+  >> client/web page-------(uName & Upasword)----------->instagram server 
+  ssl (secure socket layer) certification 
+
+
+
+server/domain name: 
+>> unique identifier
+  >> Eg: google amazone
+
+
+  Sub domain name:
+   >> gMeet
+   >> gMaps
+   >> gDrive
+   >> Gmail
+   >> gPhotos
+   >> gFIles
+   >> gChrome 
+   >> gCalender
+   >> gPay
+   
+   >> Amazone Shopping 
+   >> AWS 
+
+
+   TLD (top level domain)
+     Amazone .in (india)
+     Amazone.com (commercial)
+     Amazone.EDU (education)
+     Amazone.org (organisation)
+     Amazone.uk (united kingdoms)
+
+
+
+offline editors
+  >> Notepad
+  >> Notepad++
+  >> Subline
+  >> Open Bracket
+  >> vs Code 
+
+  online editors 
+  >> CodeSpace
+  >>CodeSandbox
