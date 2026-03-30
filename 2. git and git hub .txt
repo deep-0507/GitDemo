@@ -1,0 +1,36 @@
+Git >> version control 
+
+   v1
+   v2
+   v3
+new v4
+
+
+>> It is distributed (on cloud)
+>> collaboration 
+>> Tracking Changes
+>> recovery
+
+ https://git-scm.com/install/
+
+GitHub
+BitBucket
+GitLabs
+GitPads
+
+ >> For 1st time need to configure github in our system
+git confi --global user.name"deep-0507"
+git config --global user.email"deepjaat822f@gmail.com"
+
+git config --global colour.ui auto
+
+
+Mandatory Commands
+>> git init
+>> git remote add origin https://github.com/deep-0507/GitDemo.git
+
+
+git pull origin main 
+
+git config --global user.name "deep-0507"
+git config --global user.email "deepjaat822f@gmail.com"
