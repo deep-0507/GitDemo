@@ -16,13 +16,13 @@ new v4
 GitHub
 BitBucket
 GitLabs
-GitPads
+GitPad
 
  >> For 1st time need to configure github in our system
 git confi --global user.name"deep-0507"
 git config --global user.email"deepjaat822f@gmail.com"
 
-git config --global colour.ui auto
+git config --global color.ui auto
 
 
 Mandatory Commands
@@ -30,7 +30,14 @@ Mandatory Commands
 >> git remote add origin https://github.com/deep-0507/GitDemo.git
 
 
-git pull origin main 
 
-git config --global user.name "deep-0507"
-git config --global user.email "deepjaat822f@gmail.com"
+git pull origin maing
+
+
+git add .
+git status
+git comit -m "commit messeges"
+git push
+
+
+git checkout -b name of branch
