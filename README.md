@@ -1,2 +1,0 @@
-# GitDemo
-Deepanshu Rathee
